@@ -1,0 +1,25 @@
+.search{
+   width: 100vw;
+   padding: 10px 100px;
+}
+
+.search h1{
+   text-align: center;
+   margin-bottom: 10px;
+}
+
+
+.search-row{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 30px;
+}
+
+.search-row input{
+   width: 30%;
+   height: 40px;
+}
+.search-row button{
+   width: 70px;
+}
+
