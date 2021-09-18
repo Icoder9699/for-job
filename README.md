@@ -1,2 +1,2 @@
 
-Sayt:<a href="https://for-job.herokuapp.com/">Link<a/>
+Sayt: <a href="https://for-job.herokuapp.com/">Link<a/>
