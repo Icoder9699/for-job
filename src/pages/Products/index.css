@@ -56,7 +56,7 @@
 
 /* responsive */
   
-@media (min-width: 512px) {
+@media (max-width: 512px) {
    .products{
      padding: 10px; 
      font-size: 12px;
