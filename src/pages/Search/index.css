@@ -23,7 +23,7 @@
    width: 70px;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 512px) {
    .search{
       width: 100vw;
       padding: 10px 20px;
