@@ -28,8 +28,10 @@
 }
 
 .pagination{
+   padding: 0;
    display: flex;
-   position: absolute;
+   justify-content: center;
+   position: relative;
    bottom: 0;
    left: 50%;
    transform: translateX(-50%);
@@ -51,3 +53,19 @@
 .pagination li.active{
    border: 2px solid  #20bdff;
 }
+
+/* responsive */
+  
+@media (max-width: 376px) {
+   .products{
+     padding: 10px; 
+     font-size: 12px;
+   }
+   .product{
+      border: 1px solid #ccc;
+      padding: 20px;
+      height: 100px;
+      font-size: 12px;
+      margin-bottom: 20px;
+   }
+ }
