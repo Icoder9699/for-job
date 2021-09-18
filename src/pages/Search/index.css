@@ -23,3 +23,14 @@
    width: 70px;
 }
 
+@media (max-width: 376px) {
+   .search{
+      width: 100vw;
+      padding: 10px 20px;
+   }
+   .search-row input{
+      width: 80%;
+      height: 40px;
+   }
+}
+
